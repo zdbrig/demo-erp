@@ -53,7 +53,7 @@ This will return a response like:
 #### Create a Company
 
 ```
-curl --cookie cook.txt 'http://localhost:8888/api/company/create' --data '{"name":"Bacem BERGAOUI","phone":"+21628280423","email":"bacem.bergaoui@gmail.com","country":"TN"}' --header 'Content-Type: application/json'
+curl --cookie cook.txt 'http://localhost:8888/api/company/create' --data '{"name":"Bacem BERGAOUI","phone":"+21655550423","email":"bacem.bergaoui@gmail.com","country":"TN"}' --header 'Content-Type: application/json'
 ```
 
 This will return a response like:
@@ -69,7 +69,7 @@ This will return a response like:
     "isClient": false,
     "peoples": [],
     "country": "TN",
-    "phone": "+21628280423",
+    "phone": "+21655550423",
     "otherPhone": [],
     "email": "bacem.bergaoui@gmail.com",
     "otherEmail": [],
@@ -109,7 +109,7 @@ This will return a response like:
       "isClient": false,
       "peoples": [],
       "country": "TN",
-      "phone": "+21628280423",
+      "phone": "+21655550423",
       "otherPhone": [],
       "email": "bacem.bergaoui@gmail.com",
       "otherEmail": [],
@@ -132,7 +132,7 @@ This will return a response like:
       "isClient": false,
       "peoples": [],
       "country": "TN",
-      "phone": "+21628280423",
+      "phone": "+21655550423",
       "otherPhone": [],
       "email": "bacem.bergaoui@gmail.com",
       "otherEmail": [],
@@ -155,7 +155,7 @@ This will return a response like:
       "isClient": false,
       "peoples": [],
       "country": "TN",
-      "phone": "+21628280423",
+      "phone": "+21655550423",
       "otherPhone": [],
       "email": "bacem.bergaoui@gmail.com",
       "otherEmail": [],
@@ -178,7 +178,7 @@ This will return a response like:
       "isClient": false,
       "peoples": [],
       "country": "TN",
-      "phone": "+21628280423",
+      "phone": "+21655550423",
       "otherPhone": [],
       "email": "bacem.bergaoui@gmail.com",
       "otherEmail": [],

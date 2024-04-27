@@ -1,4 +1,4 @@
-```markdown
+
 # ERP with API Example
 
 This is an example of an open ERP system.
@@ -216,5 +216,4 @@ curl --cookie cook.txt 'http://localhost:8888/api/client/create' --data '{"type"
 curl --cookie cook.txt 'http://localhost:8888/api/client/list?page=1&items=10'
 ```
 
-Please note that this README.md file assumes that the provided information is accurate and up-to-date. If there are any changes or additional details needed, feel free to provide them, and I'll update the file accordingly.
-```
+
